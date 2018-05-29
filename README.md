@@ -25,6 +25,16 @@ https://github.com/EliverLara/Ant
 **Site Theme:**
 https://www.opendesktop.org/p/1171688/
 
+## Theme Plane
+**Site Plane GTK3.26+**
+https://www.gnome-look.org/p/1198768/
+
+**Icon**
+https://www.opendesktop.org/p/1178976/
+
+**GitHub**
+https://github.com/wfpaisa/plane-theme
+
 ## Theme Matcha
 **Site Theme Matcha:**
 https://www.gnome-look.org/p/1187179/
