@@ -2,42 +2,50 @@
 Added multi themes for Linux (Gnome, Mate, Xfce)
 
 ## Theme OSX-Arc
-**Site OSX-Arc:**
+**Site OSX-Arc :**
 https://www.gnome-look.org/p/1167049/
 
-**Theme Arc-Classic**
+**Theme Arc-Classic :**
 GitHub: https://github.com/horst3180/arc-theme
 
-**Arc-Icon**
+**Arc-Icon :**
 GitHub: https://github.com/horst3180/arc-icon-theme
 
-**Firefox-Theme**
+**Firefox-Theme :**
 GitHub:https://github.com/horst3180/arc-firefox-theme
 
 ## Theme Ant
-**Site Theme Ant:**
+**Site Theme Ant :**
 https://www.gnome-look.org/p/1099856/
 
-**Github:**
+**Github :**
 https://github.com/EliverLara/Ant
 
 ## Theme Gnome-OSX
-**Site Theme:**
+**Site Theme :**
 https://www.opendesktop.org/p/1171688/
 
 ## Theme Plane
 **Site Plane GTK3.26+**
 https://www.gnome-look.org/p/1198768/
 
-**Icon**
+**Icon :**
 https://www.opendesktop.org/p/1178976/
 
-**GitHub**
+**GitHub :**
 https://github.com/wfpaisa/plane-theme
 
 ## Theme Matcha
-**Site Theme Matcha:**
+**Site Theme Matcha :**
 https://www.gnome-look.org/p/1187179/
 
-**Github:**
+**Github :**
 https://github.com/vinceliuice/matcha
+
+## Theme Zukitre and Zukitwo
+*(Not present in this repositories)*
+
+**GitHub :**
+https://github.com/lassekongo83/zuki-themes
+
+[Download Master Branch](https://github.com/lassekongo83/zuki-themes/archive/master.zip)
