@@ -1,15 +1,21 @@
 # The Official OSX-Arc Collection
 
-* **Site:**
-https://www.gnome-look.org/p/1167049/
+* **Site:** <br>
+Theme: https://www.gnome-look.org/p/1167049/ <br>
+Icon: https://www.gnome-look.org/p/1185508/
 
-**Theme Arc-Classic**
-GitHub: https://github.com/horst3180/arc-theme
+**Theme Arc-Classic** <br>
+GitHub: https://github.com/horst3180/arc-theme <br>
+GitLab: https://gitlab.com/users/LinxGem33/projects
 
-**Arc-Icon**
-GitHub: https://github.com/horst3180/arc-icon-theme
+**Arc-Icon** <br>
+GitHub: https://github.com/horst3180/arc-icon-theme <br>
+GitLab: https://gitlab.com/LinxGem33/Arc-X-Icons
 
-**Firefox-Theme**
+**Arc-Menu *(Gnome3)*** <br>
+GitLab: https://gitlab.com/LinxGem33/Arc-Menu
+
+**Firefox-Theme** <br>
 GitHub:https://github.com/horst3180/arc-firefox-theme
 
 ##
