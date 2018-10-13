@@ -14,6 +14,13 @@ GitHub: https://github.com/horst3180/arc-icon-theme
 **Firefox-Theme :**
 GitHub:https://github.com/horst3180/arc-firefox-theme
 
+## Theme Adapta
+**Site Theme Adapta :**
+https://www.gnome-look.org/p/1190851/
+
+**GitHub :**
+https://github.com/adapta-project/adapta-gtk-theme
+
 ## Theme Ant
 **Site Theme Ant :**
 https://www.gnome-look.org/p/1099856/
