@@ -5,7 +5,19 @@ Added multi themes for Linux (Gnome, Mate, Xfce)
 **Site Ultimate Dark :**
 https://www.gnome-look.org/p/1246387/
 
-**Github :**
+- **Site Ultimate Maia Icons :**
+https://www.opendesktop.org/p/1218961/
+
+- **GitHub :**
+https://github.com/bolimage/Ultimate-Maia-Icons
+
+- **Site Ultimate Maia :**
+https://www.opendesktop.org/p/1193879/
+
+- **GitHub :**
+https://github.com/bolimage/Ultimate-Maia
+
+**GitHub :**
 https://github.com/bolimage/Ultimate-Maia
 
 ## Theme OSX-Arc
