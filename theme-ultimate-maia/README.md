@@ -1,4 +1,9 @@
-## Description:
+## Sites : 
+Sites : https://www.opendesktop.org/p/1193879/
+
+Github: https://github.com/bolimage/Ultimate-Maia
+
+## Description :
 Easy On The Eyes Material design like Gnome 3.28 + theme.
 
 Two versions, flat and gradient (Gr) header bar colors.
