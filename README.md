@@ -20,6 +20,13 @@ https://github.com/bolimage/Ultimate-Maia
 **GitHub :**
 https://github.com/bolimage/Ultimate-Maia
 
+## Theme Qogit :
+**Site Qogir :**
+https://www.opendesktop.org/p/1230631/
+
+**Github :**
+https://github.com/vinceliuice/Qogir-theme
+
 ## Theme OSX-Arc
 **Site OSX-Arc :**
 https://www.gnome-look.org/p/1167049/
