@@ -6,7 +6,8 @@ https://www.gnome-look.org/p/1198768/
 https://www.opendesktop.org/p/1178976/
 
 * **GitHub**
-https://github.com/wfpaisa/plane-theme
+[Plane theme](https://github.com/wfpaisa/plane-theme)
+[Plane Icon](https://github.com/wfpaisa/plane-icon-theme)
 
 ### Installation:
 * Extract the zip file to the themes directory i.e. `~/.themes/` or `/usr/share/themes/` (create it if necessary).
