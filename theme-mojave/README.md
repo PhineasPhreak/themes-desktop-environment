@@ -1,6 +1,12 @@
 ## Theme Mojave
-**Site Theme Mojave :**
+**Site Theme Mojave GTK :**
 https://www.gnome-look.org/p/1275087/
+
+**Site Theme Mojave KDE :**
+https://www.pling.com/p/1304936/
+
+**Site Icon Mojave-circle :**
+https://www.gnome-look.org/p/1305429/
 
 **GitHub Theme :**
 https://github.com/vinceliuice/Mojave-gtk-theme
