@@ -30,14 +30,6 @@ https://www.opendesktop.org/p/1230631/
 **Github :**
 https://github.com/vinceliuice/Qogir-theme
 
-## Theme OSX-Arc 
-
-> ***(Please Note: This project has been discontinued as of 09/04/2018.)***
-
-**Site OSX-Arc :**
-https://www.gnome-look.org/p/1167049/
-If you'd like to continue this project, please Fork it on GitLab.
-
 ## Theme Adapta
 
 **Site Theme Adapta :**
@@ -54,7 +46,7 @@ https://www.gnome-look.org/p/1099856/
 **Github :**
 https://github.com/EliverLara/Ant
 
-## Theme Gnome-OSX (_McOS-themes)
+## Theme Gnome-OSX (McOS-themes)
 
 **Site Theme :**
 https://www.gnome-look.org/p/1241688/
@@ -105,4 +97,15 @@ https://www.gnome-look.org/p/1334194/
 
 **Github :**
 https://github.com/paullinuxthemer/Prof-Gnome
+
+# Repositories Archived
+
+## Theme OSX-Arc 
+
+> ***(Please Note: This project has been discontinued as of 09/04/2018.)***
+
+**Site OSX-Arc :**
+https://www.gnome-look.org/p/1167049/
+
+If you'd like to continue this project, please Fork it on GitLab.
 
