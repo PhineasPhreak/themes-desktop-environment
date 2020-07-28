@@ -22,7 +22,7 @@ https://github.com/bolimage/Ultimate-Maia
 **GitHub :**
 https://github.com/bolimage/Ultimate-Maia
 
-## Theme Qogit :
+## Theme Qogit
 
 **Site Qogir :**
 https://www.opendesktop.org/p/1230631/
@@ -36,15 +36,7 @@ https://github.com/vinceliuice/Qogir-theme
 
 **Site OSX-Arc :**
 https://www.gnome-look.org/p/1167049/
-
-**Theme Arc-Classic :**
-GitHub: https://github.com/horst3180/arc-theme
-
-**Arc-Icon :**
-GitHub: https://github.com/horst3180/arc-icon-theme
-
-**Firefox-Theme :**
-GitHub:https://github.com/horst3180/arc-firefox-theme
+If you'd like to continue this project, please Fork it on GitLab.
 
 ## Theme Adapta
 
@@ -62,10 +54,10 @@ https://www.gnome-look.org/p/1099856/
 **Github :**
 https://github.com/EliverLara/Ant
 
-## Theme Gnome-OSX
+## Theme Gnome-OSX (_McOS-themes)
 
 **Site Theme :**
-https://www.opendesktop.org/p/1171688/
+https://www.gnome-look.org/p/1241688/
 
 ## Theme Plane
 
@@ -105,7 +97,6 @@ https://github.com/daniruiz/Flat-Remix-GTK
 
 **OpenDesktop :**
 https://www.opendesktop.org/p/1214931/
-
 
 ## Theme Prof-Gnome
 
