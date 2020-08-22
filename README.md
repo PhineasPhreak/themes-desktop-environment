@@ -48,6 +48,8 @@ https://github.com/EliverLara/Ant
 
 ## Theme Gnome-OSX (McOS-themes)
 
+>(Not present in this repositories)
+
 **Site Theme :**
 https://www.gnome-look.org/p/1241688/
 
@@ -90,9 +92,36 @@ https://github.com/daniruiz/Flat-Remix-GTK
 **OpenDesktop :**
 https://www.opendesktop.org/p/1214931/
 
+## Theme Mojave
+
+**Site Theme Mojave GTK :**
+https://www.gnome-look.org/p/1275087/
+
+**Site Theme Mojave KDE :**
+https://www.pling.com/p/1304936/
+
+**Site Icon Mojave-circle :**
+https://www.gnome-look.org/p/1305429/
+
+**GitHub Theme :**
+https://github.com/vinceliuice/Mojave-gtk-theme
+
+**Github Icon :**
+https://github.com/vinceliuice/McMojave-circle
+
+## Theme Mcata
+
+>(Not present in this repositories)
+
+**Site Theme Mcata :**
+https://www.gnome-look.org/p/1381832/
+
+**Github :**
+https://github.com/vinceliuice/Mojave-gtk-theme
+
 ## Theme Prof-Gnome
 
-**Site** 
+**Site Prof-Gnome :** 
 https://www.gnome-look.org/p/1334194/
 
 **Github :**
