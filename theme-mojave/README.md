@@ -5,6 +5,9 @@ https://www.gnome-look.org/p/1275087/
 **Site Theme Mojave KDE :**
 https://www.pling.com/p/1304936/
 
+**Site Mojave Cursor :**
+https://www.gnome-look.org/p/1355701/
+
 **Site Icon Mojave-circle :**
 https://www.gnome-look.org/p/1305429/
 
