@@ -30,14 +30,6 @@ https://www.opendesktop.org/p/1230631/
 **Github :**
 https://github.com/vinceliuice/Qogir-theme
 
-## Theme Adapta
-
-**Site Theme Adapta :**
-https://www.gnome-look.org/p/1190851/
-
-**GitHub :**
-https://github.com/adapta-project/adapta-gtk-theme
-
 ## Theme Ant
 
 **Site Theme Ant :**
@@ -132,6 +124,14 @@ https://github.com/paullinuxthemer/Prof-Gnome
 
 # Repositories Archived
 
+## Theme Adapta
+
+**Site Theme Adapta :**
+https://www.gnome-look.org/p/1190851/
+
+**GitHub :**
+https://github.com/adapta-project/adapta-gtk-theme
+
 ## Theme OSX-Arc 
 
 > ***(Please Note: This project has been discontinued as of 09/04/2018.)***
@@ -140,4 +140,3 @@ https://github.com/paullinuxthemer/Prof-Gnome
 https://www.gnome-look.org/p/1167049/
 
 If you'd like to continue this project, please Fork it on GitLab.
-
