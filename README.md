@@ -22,7 +22,7 @@ https://github.com/bolimage/Ultimate-Maia
 **GitHub :**
 https://github.com/bolimage/Ultimate-Maia
 
-## Theme Qogit
+## Theme Qogir
 
 **Site Qogir :**
 https://www.opendesktop.org/p/1230631/
@@ -83,6 +83,19 @@ https://github.com/daniruiz/Flat-Remix-GTK
 
 **OpenDesktop :**
 https://www.opendesktop.org/p/1214931/
+
+## WhiteSur GTK
+
+>(Not present in this repositories)
+
+**Site Theme GTK :**
+https://www.gnome-look.org/p/1403328/
+
+**Github Theme :**
+https://github.com/vinceliuice/WhiteSur-gtk-theme
+
+**Firefox Theme :**
+https://github.com/vinceliuice/WhiteSur-gtk-theme/tree/master/src/other/firefox
 
 ## Theme Mojave
 
