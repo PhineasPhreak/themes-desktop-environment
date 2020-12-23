@@ -84,6 +84,22 @@ https://github.com/daniruiz/Flat-Remix-GTK
 **OpenDesktop :**
 https://www.opendesktop.org/p/1214931/
 
+## Orchis GTK
+
+>(Not present in this repositories)
+
+**Site Theme :**
+https://www.gnome-look.org/p/1357889/
+
+**Github Theme :**
+https://github.com/vinceliuice/Orchis-theme
+
+**Icon Theme :**
+https://www.pling.com/p/1279924/
+
+**Firefox Theme :**
+https://github.com/vinceliuice/Orchis-theme/tree/master/src/firefox
+
 ## WhiteSur GTK
 
 >(Not present in this repositories)
