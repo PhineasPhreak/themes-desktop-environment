@@ -2,6 +2,23 @@
 
 Added multi themes for Linux (Gnome, Mate, Xfce)
 
+## Theme Fluent GTK
+
+Site Flent Theme :
+https://www.gnome-look.org/p/1477941/
+
+Github Theme :
+https://github.com/vinceliuice/Fluent-gtk-theme
+
+Site Fluent Icon :
+https://www.gnome-look.org/p/1477945/
+
+Github Icon :
+https://github.com/vinceliuice/Fluent-icon-theme
+
+Site Fluent Cursor :
+https://www.gnome-look.org/p/1499852/
+
 ## Theme Ultimate Dark
 
 **Site Ultimate Dark :**

@@ -1,5 +1,16 @@
 # icons
 
+## Fluent icon
+Site Fuent :
+https://www.gnome-look.org/p/1477945/
+
+Github :
+https://github.com/vinceliuice/Fluent-icon-theme
+
+## Papirus
+Site Papirus:
+https://www.gnome-look.org/p/1166289 | https://git.io/papirus-icon-theme
+
 ## Quintom Cusors
 **Site Quintom :**
 https://www.gnome-look.org/p/1329799/
