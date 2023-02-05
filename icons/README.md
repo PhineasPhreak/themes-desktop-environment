@@ -32,8 +32,8 @@ Github :
 https://gitlab.com/zoli111/simp1e/
 
 ## Sunity Cursor
-Site Simp1e :
-https://www.pling.com/p/1932768
+Site Sunity :
+https://www.pling.com/p/1703043
 
 Github :
-https://gitlab.com/zoli111/simp1e/
+https://github.com/alvatip/Sunity-cursors
