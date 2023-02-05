@@ -1,20 +1,20 @@
 # icons
 
-## Fluent icon
+## Fluent Icon
 Site Fuent :
 https://www.pling.com/p/1477945/
 
 Github :
 https://github.com/vinceliuice/Fluent-icon-theme
 
-## Papirus
+## Papirus Icon
 Site Papirus:
 https://www.pling.com/p/1166289
 
 Github: 
 https://git.io/papirus-icon-theme
 
-## Quintom Cusors
+## Quintom Cursors
 **Site Quintom :**
 https://www.pling.com/p/1329799/
 
@@ -28,3 +28,9 @@ https://www.pling.com/p/1932768
 Github :
 https://gitlab.com/zoli111/simp1e/
 
+## Sunity Cursor
+Site Simp1e :
+https://www.pling.com/p/1932768
+
+Github :
+https://gitlab.com/zoli111/simp1e/
