@@ -24,6 +24,20 @@ https://www.pling.com/p/1329799/
 Github :
 https://gitlab.com/Burning_Cube/quintom-cursor-theme
 
+## McMojave cursors (Gnome Desktop)
+Site McMojave :
+https://www.pling.com/p/1355701
+
+Github :
+https://github.com/vinceliuice/McMojave-cursors
+
+## macOS Big Sur (Gnome Desktop)
+Site McMojave :
+https://www.pling.com/p/1408466
+
+Github :
+https://github.com/ful1e5/apple_cursor
+
 ## Simp1e Cursor (All Desktop)
 Site Simp1e :
 https://www.pling.com/p/1932768
@@ -45,3 +59,10 @@ https://www.pling.com/p/1499852/
 Github :
 https://github.com/vinceliuice/Fluent-icon-theme
 > Select `cursors` folder.
+
+## Qogir cursors (KDE Desktop)
+Site Qogir :
+https://www.pling.com/p/1366182
+
+Github :
+https://github.com/vinceliuice/Qogir-icon-theme/tree/master/src/cursors
