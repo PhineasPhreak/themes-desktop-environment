@@ -45,6 +45,17 @@ https://www.pling.com/p/1932768
 Github :
 https://gitlab.com/zoli111/simp1e/
 
+## BreezeX Cursor (KDE Desktop)
+Site BreezeX :
+BreezeX Dark : https://www.pling.com/p/1538515/
+
+BreezeX Light : https://www.pling.com/p/1640746/
+
+BreezeX Black : https://www.pling.com/p/1640747/
+
+Github :
+https://github.com/ful1e5/BreezeX_Cursor
+
 ## Sunity Cursor (KDE Desktop)
 Site Sunity :
 https://www.pling.com/p/1703043
