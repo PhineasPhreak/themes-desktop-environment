@@ -47,6 +47,7 @@ https://gitlab.com/zoli111/simp1e/
 
 ## BreezeX Cursor (KDE Desktop)
 Site BreezeX :
+
 BreezeX Dark : https://www.pling.com/p/1538515/
 
 BreezeX Light : https://www.pling.com/p/1640746/
